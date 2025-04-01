@@ -18,7 +18,7 @@ The application is fully responsive and adapts to various screen sizes, providin
 Modern Front-End Development:
 Built using React and Next.js, this project demonstrates best practices for modern JavaScript development, including server-side rendering (SSR), API integration, and state management using React Hooks and Context API.
 
-Technologies Used
+Technologies Used<br/>
 Next.js – Framework for React with server-side rendering (SSR) and routing capabilities.
 
 React – JavaScript library for building the user interface with reusable components.

@@ -2,7 +2,7 @@
 
 The Movie Recommendation App is a dynamic, user-friendly web application built using Next.js that allows users to browse, search, and save their favorite movies. This app integrates with the OMDb API (Open Movie Database) to provide detailed movie information such as title, release year, poster, plot, and ratings. With features like movie search, dynamic movie detail pages, and a favorites system, this project aims to deliver a seamless and interactive experience for movie enthusiasts.
 
-Key Features
+Key Features<br/>
 Movie Search & Recommendations:
 The app allows users to search for movies by title and receive instant results from the OMDb API, with filtering options based on the search query.
 

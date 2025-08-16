@@ -19,21 +19,22 @@ A web application to **search movies, view details, and manage favorites** using
 - **Styling:** Tailwind CSS  
 
 ---
-1️⃣Create a Next.js App
+## 1️⃣ Create a Next.js App
 - npx create-next-app@latest my-next-app
 - cd my-next-app
 - npm run dev
 
-2️⃣ Install Dependencies
+## 2️⃣ Install Dependencies
 - npm install
 - node -v
 - npm -v
 
-
-3️⃣ Add Environment Variable
-- Create .env.local in the root folder:
+##3️⃣ Get OMDb API Key
+- Go to OMDb API
+- Sign up and get a free API key
+- Create a .env.local file in the root directory and add:
 - NEXT_PUBLIC_OMDB_API_KEY=your_api_key_here
 
-4️⃣ Run the App
+## 4️⃣ Run the App
 - npm run dev
 

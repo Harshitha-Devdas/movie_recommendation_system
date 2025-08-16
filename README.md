@@ -29,7 +29,7 @@ A web application to **search movies, view details, and manage favorites** using
 - node -v
 - npm -v
 
-##3️⃣ Get OMDb API Key
+## 3️⃣ Get OMDb API Key
 - Go to OMDb API
 - Sign up and get a free API key
 - Create a .env.local file in the root directory and add:
